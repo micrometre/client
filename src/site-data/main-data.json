@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "body": {
+                "name": "website-electricalsurrey.com",
+                "private": "true",
+                "firstName": "Nathan, Matthew ",
+                "lastName": " Tween",
+                "domain": "electricalsurrey.com",
+                "company": "electricalsurrey.com",
+                "logo": "./src/images/logo.webp",
+                "phone": "12314",
+                "mobile": "1234",
+                "email": "@electricalsurrey.com",
+                "twitter": "@electricalsurrey.com",
+                "facebook": "@electricalsurrey.com",
+                "instagram": "@electricalsurrey.com",
+                "google": "@electricalsurrey.com",
+                "youtube": "@electricalsurrey.com"
+            },
+            "id": 1
+        }
+    ]
+]
